@@ -4,7 +4,7 @@
 ## Objective
 ## Learning Progress
 #### week1
-*PPT
-*課堂筆記
+* 雲端服務基本介紹
+* 課堂筆記
 - [ ] 心得作業
 
