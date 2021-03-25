@@ -13,10 +13,9 @@
 - [ ] RDS 與 DynamoDB 資料庫服務
 - [ ] Docker 技術應用
 除此之外，跨校組隊解決金融業者(玉山證券、南山人壽等)所提供的實務問題
->授課老師：蔡芸琤老師
->助教：司福民助教、陳偉傑助教、蔡雨臻助教
-
----
+* 授課老師：蔡芸琤老師
+* 助教：司福民助教、陳偉傑助教、蔡雨臻助教
+===
 ## 📌Learning Progress
 ### Week1
 >* [Cloud Computing and FinTech](https://docs.google.com/presentation/d/e/2PACX-1vQQ4-146uvQCZn9VjZKTZM2P_svSrkrzvVN2dlKmXVK3IlqYWTTmBfaG1unOBZ65gOuVyac4c__RIj2/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3B47fq5aXUh_oa6KUf2rF3MyEMeNgh7AU6a_uF2i1gYdL40TOSx06EHtM&slide=id.gbde736d55e_0_107)
