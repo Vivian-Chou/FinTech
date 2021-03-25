@@ -1,9 +1,21 @@
-# FinTech  Cloud Computing
+# FinTech and Cloud Computing
 
 ## 📌About Me
 * Name：Tsai-wei Chou周采葳
 * Major：Big Data Management
 * School：Soochow University
+## 📌About Course
+課程內容包括財金專業知識、文字探勘與機器學習，以及使用程式語言（如 Python）來實作專題。
+並且學習AWS所提供的雲端服務
+- [x] 架設虛擬機與伺服器
+- [x] 網頁部署與版本控制
+- [ ] API 串接 Chatbot
+- [ ] RDS 與 DynamoDB 資料庫服務
+- [ ] Docker 技術應用
+除此之外，跨校組隊解決金融業者(玉山證券、南山人壽等)所提供的實務問題
+>授課老師：蔡芸琤老師
+>助教：司福民助教、陳偉傑助教、蔡雨臻助教
+
 ---
 ## 📌Learning Progress
 ### Week1
