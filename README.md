@@ -14,9 +14,12 @@
 ### Week3
 >* [雲端服務基本介紹](https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view)
 >* [課堂筆記](./Week3/note.md)
->* [作業：心得](./Week3/Homework.md)
+>* [What do you think of Cloud Computing ?](./Week3/Homework.md)
 ### Week4
 >* [AWS LAMP](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)
->* [作業：EC2安裝LAMP](https://www.youtube.com/watch?v=FpLYXPRKlEA)
+>* [Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=FpLYXPRKlEA)
+### Week5
+>* [AWS IAM&S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
+>* [Build a Website using Amazon S3(Versioning)and AWS Amplif]
 
 
