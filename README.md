@@ -31,6 +31,6 @@
 >* [Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=FpLYXPRKlEA)
 ### Week5
 >* [AWS IAM&S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
->* [Build a Website using Amazon S3(Versioning)and AWS Amplif]
+>* [Build a Website using Amazon S3(Versioning)and AWS Amplify](https://youtu.be/NlpsQIw8yxo)
 
 
