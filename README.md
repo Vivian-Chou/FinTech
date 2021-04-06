@@ -9,7 +9,7 @@
 並且學習AWS所提供的雲端服務
 - [x] 架設虛擬機與伺服器
 - [x] 網頁部署與版本控制
-- [ ] API 串接 Chatbot
+- [x] API 串接 Chatbot
 - [ ] RDS 與 DynamoDB 資料庫服務
 - [ ] Docker 技術應用
 
@@ -31,7 +31,11 @@
 >* [AWS LAMP](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)
 >* HW：[Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=FpLYXPRKlEA)
 ### Week5
->* [AWS IAM&S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
+>* [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 >* HW：[Build a Website using Amazon S3(Versioning)and AWS Amplify](https://youtu.be/NlpsQIw8yxo)
+### Week6
+>* [API Gateway & AWS Lambda](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
+>* [課堂筆記](https://www.notion.so/API-Gateway-AWS-Lambda-c8c95b5b52604c638224e9162d43d788)
+>* HW：[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/NlpsQIw8yxo)
 
 
