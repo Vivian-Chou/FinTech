@@ -36,6 +36,6 @@
 ### Week6
 >* [API Gateway & AWS Lambda](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 >* [課堂筆記](https://www.notion.so/API-Gateway-AWS-Lambda-c8c95b5b52604c638224e9162d43d788)
->* HW：[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/NlpsQIw8yxo)
+>* HW：[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=wj72UoHtASI)
 
 
