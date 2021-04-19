@@ -10,7 +10,7 @@
 - [x] 架設虛擬機與伺服器
 - [x] 網頁部署與版本控制
 - [x] API 串接 Chatbot
-- [ ] RDS 與 DynamoDB 資料庫服務
+- [x] RDS 與 DynamoDB 資料庫服務
 - [ ] Docker 技術應用
 
  除此之外，跨校組隊解決金融業者(玉山證券、南山人壽等)所提供的實務問題
@@ -37,5 +37,8 @@
 >* [API Gateway & AWS Lambda](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 >* [課堂筆記](https://www.notion.so/API-Gateway-AWS-Lambda-c8c95b5b52604c638224e9162d43d788)
 >* HW：[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=wj72UoHtASI)
+### Week7
+>* [RDS]
+>* HW：
 
 
