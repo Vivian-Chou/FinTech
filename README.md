@@ -38,7 +38,12 @@
 >* [課堂筆記](https://www.notion.so/API-Gateway-AWS-Lambda-c8c95b5b52604c638224e9162d43d788)
 >* HW：[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=wj72UoHtASI)
 ### Week7
->* [RDS]
+>* 清明節停課
+### Week8
+>* [RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
+>* HW：
+### Week9
+>* [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
 >* HW：
 
 
