@@ -41,7 +41,7 @@
 >* 清明節停課
 ### Week8
 >* [RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
->* HW：
+>* HW：[Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/KzjZwtnBBxM)
 ### Week9
 >* [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
 >* HW：
