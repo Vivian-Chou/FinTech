@@ -26,22 +26,22 @@
 ### Week3
 >* [雲端服務基本介紹](https://drive.google.com/file/d/1UYbm03ehUAsKlICvyp1P4I0PZ_g8vlCv/view)
 >* [課堂筆記](./Week3/note.md)
->* HW：[What do you think of Cloud Computing ?](./Week3/Homework.md)
+>* [HW]：What do you think of Cloud Computing ?(./Week3/Homework.md)
 ### Week4
 >* [AWS LAMP](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)
->* HW：[Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=FpLYXPRKlEA)
+>* [HW]：Build a Website using Amazon EC2 with LAMP(https://www.youtube.com/watch?v=FpLYXPRKlEA)
 ### Week5
 >* [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
->* HW：[Build a Website using Amazon S3(Versioning)and AWS Amplify](https://youtu.be/NlpsQIw8yxo)
+>* [HW]：Build a Website using Amazon S3(Versioning)and AWS Amplify(https://youtu.be/NlpsQIw8yxo)
 ### Week6
 >* [API Gateway & AWS Lambda](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 >* [課堂筆記](https://www.notion.so/API-Gateway-AWS-Lambda-c8c95b5b52604c638224e9162d43d788)
->* HW：[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=wj72UoHtASI)
+>* [HW]：Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda(https://www.youtube.com/watch?v=wj72UoHtASI)
 ### Week7
 >* 清明節停課
 ### Week8
 >* [RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
->* HW：[Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/KzjZwtnBBxM)
+>* [HW]：Create a Database using Amazon RDS or Amazon DynamoDB(https://youtu.be/KzjZwtnBBxM)
 ### Week9
 >* [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
 >* HW：
