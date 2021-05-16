@@ -44,7 +44,7 @@
 >* [HW](https://youtu.be/KzjZwtnBBxM)：Create a Database using Amazon RDS or Amazon DynamoDB
 ### Week9
 >* [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
->* [HW]：(https://www.youtube.com/watch?v=1oliz9J1tIU)
+>* [HW](https://www.youtube.com/watch?v=1oliz9J1tIU)：Create a Docker Container
 
 ## 📌About Final Project
 ### 玉山證券題目一 _ 個人投資風險管家
