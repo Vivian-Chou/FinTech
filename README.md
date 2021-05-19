@@ -44,7 +44,22 @@
 >* [HW](https://youtu.be/KzjZwtnBBxM)：Create a Database using Amazon RDS or Amazon DynamoDB
 ### Week9
 >* [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
+>* [Final Project Checkpoint1](https://docs.google.com/spreadsheets/d/1Cw4PVDJr2_jQxhCEoAp5ZCJqW3F4mP15iTis3l_RRrk/edit#gid=1585268978)
 >* [HW](https://www.youtube.com/watch?v=1oliz9J1tIU)：Create a Docker Container
+
+### Week10
+>* [專題追蹤 & 南山人壽文本生成專題](https://docs.google.com/presentation/d/e/2PACX-1vR6RshhTnxcEtebBKObOhpKNpoioxb8O3zNBlVpx6BNYX8tFN-MYQJeA9lGRgNnirDL9Ciwi1odpinD/pub?delayms=3000&loop=false&start=false&slide=id.p)
+>* [第一次專題進度報告之老師助教回饋](https://docs.google.com/presentation/d/1NCjvK2YB8ruf-HmYuiH7tp5wU5HcktBY-sKMwaAj5G0/edit#slide=id.gc9bbdb472d_0_5)
+
+### Week11
+>* [專題討論 - 玉山證券題目一](https://docs.google.com/presentation/d/112lvcwoCo0rrHq45QpUmSl1c4MV8FTRN/edit#slide=id.p1)
+>* [第一次專題進度優秀組別分享](https://docs.google.com/presentation/d/1_PMjs8ObICrQwGOib0UJEu3ncWBX-6mnTXFDaw43-KY/edit#slide=id.gd47126b767_0_57)
+
+### Week12
+>* Final Project Checkpoint2
+
+### Week13
+>* AWS 社群大使工作坊
 
 ## 📌About Final Project
 ### 玉山證券題目一 _ 個人投資風險管家
