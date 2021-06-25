@@ -76,7 +76,7 @@
 >因為部分的違約案例發生在投資新手，因此我們把目標定為投資交易經驗2年以下。而違約交割屬於少數異常的行為，因此以找出異常行為為主。
 
 #### 專案介紹[📽️](https://youtu.be/cAffJFh3EJw)
-#### 專案廣告[📽️](https://youtu.be/nk6VVhM-e5s)
+#### 專案廣告[📽️](https://www.youtube.com/watch?v=ep3PzWNG-GQ)
 #### 專案簡報[📽️](https://reurl.cc/a94Dk3)
 
 #### 指導老師
